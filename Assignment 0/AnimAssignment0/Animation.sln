@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnimAssignment0", "AnimAssignment0\AnimAssignment0.vcxproj", "{BBFA1079-3BF3-4910-86BE-6C7F604FEBFC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnimAssignment1", "AnimAssignment1\AnimAssignment1.vcxproj", "{FC98B847-AB83-483B-A48A-67E837334FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFA1079-3BF3-4910-86BE-6C7F604FEBFC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BBFA1079-3BF3-4910-86BE-6C7F604FEBFC}.Debug|Win32.Build.0 = Debug|Win32
+		{BBFA1079-3BF3-4910-86BE-6C7F604FEBFC}.Release|Win32.ActiveCfg = Release|Win32
+		{BBFA1079-3BF3-4910-86BE-6C7F604FEBFC}.Release|Win32.Build.0 = Release|Win32
+		{FC98B847-AB83-483B-A48A-67E837334FAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC98B847-AB83-483B-A48A-67E837334FAC}.Debug|Win32.Build.0 = Debug|Win32
+		{FC98B847-AB83-483B-A48A-67E837334FAC}.Release|Win32.ActiveCfg = Release|Win32
+		{FC98B847-AB83-483B-A48A-67E837334FAC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
